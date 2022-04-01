@@ -1,1 +1,1 @@
-# This is the trmplate used in creating my portfolio
+# This is the template used in creating my portfolio
